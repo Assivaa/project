@@ -1,0 +1,40 @@
+.input-form{
+  margin-top: 55px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  text-align: center;
+}
+
+input{
+  padding: 1px 0px 2px 22px;
+}
+
+h1{
+  text-align: center;
+}
+
+button{
+  padding: 1px 18px 2px 18px;
+}
+
+.jarak-kotak{
+  padding: 15px;
+  margin-left: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.kotak{
+  padding: 10px;
+  text-align: center;
+  font-size: 20px;
+  margin: 5px;
+  border: 2px solid green;
+  border-radius: 10px;
+  height: 120px;
+  width: 120px;  
+}
+
+
